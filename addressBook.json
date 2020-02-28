@@ -1,0 +1,22 @@
+{
+    "personalDetail": [
+        {
+            "firstname": "Bharath",
+            "lastName": "kumar",
+            "address": "12",
+            "city": "hyd",
+            "state": "ts",
+            "zip": "505184",
+            "phoneNumber": "9885756545"
+        },
+        {
+            "firstname": "suvam",
+            "lastName": "parida",
+            "address": "45",
+            "city": "ecil",
+            "state": "hd",
+            "zip": "50030",
+            "phoneNumber": "9603104378"
+        }
+    ]
+}
