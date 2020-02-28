@@ -1,0 +1,22 @@
+{
+    "productDetail": [
+        {
+            "productName": "Rice",
+            "productQuantity": "20",
+            "productType": "food",
+            "productPrice": "10"
+        },
+        {
+            "productName": "wheats",
+            "productQuantity": "20",
+            "productType": "30",
+            "productPrice": "50"
+        },
+        {
+            "productName": "pules",
+            "productQuantity": "20",
+            "productType": "grain",
+            "productPrice": "60"
+        }
+    ]
+}
